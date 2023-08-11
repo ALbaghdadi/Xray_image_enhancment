@@ -5,3 +5,6 @@
 
 this project based on Encoder algorithem to build deep learning model that can enhance Xray image 
 and make prediction using Gradio platform
+
+Dataset from kaggle website
+https://www.kaggle.com/datasets/tawsifurrahman/tuberculosis-tb-chest-xray-dataset
